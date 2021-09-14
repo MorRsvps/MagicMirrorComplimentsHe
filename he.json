@@ -1,31 +1,28 @@
 {
         "anytime" : [
-                "Je ziet er geweldig uit vandaag!",
-                "Wat een geweldige dag vandaag!",
-                "Jij maakt vandaag het verschil!",
-                "Een prachtige lach, voor een prachtige dag",
-                "Kijk je nog steeds naar de spiegel?",
-                "Hallo, ik ben El, Spieg El"
-
+                "!נראים נראה נהדר היום",
+                "!היום הוא יום מדהים",
+                "את/ה עושה את ההבדל",
+                "חיוך יפה, ליום יפה",
+                "?את/ה עדיין צופה במראה",
+                "'המראה אומרת: 'היי"
         ],
         "morning" : [
-                "Wat zit je haar weer goed vandaag!",
-                "Begin de dag met een lach!",
-                "Het zal weer een prachtige dag worden!",
-                "Is het niet een leuke dag?",
-                "Bereid je voor op een leuke dag!"
+                "!השיער שלך מהמם היום",
+                "היום מתחיל בחיוך",
+                "!זה יהיה יום יפה היום",
+                "?זה לא יום מושלם",
+                "!תתכוננו ליום מושלם"
         ],
         "afternoon" : [
-                "Nog even je werk afmaken...",
-                "Middag, niet de avond, niet de ochtend",
-                "Is dit niet een leuke dag?",
-                "Bijna etenstijd!"
+                "...רק סיימת את העבודה",
+                "צהריים, לא בוקר, לא ערב",
+                "היום הזה מעולה",
+                "!כמעט זמן לארוחת ערב"
         ],
         "evening" : [
-                "En nu op naar de vergadering.",
-                "Eet smakelijk!",
-                "Even rust, heerlijk....",
-                "Jij hebt het verschil gemaakt!",
-                "Was het eten lekker?"
+                "רק עוד כמה שעות ולמיטה",
+                "לילה טוב",
+                "חלומות נעימים ושינה ערבה"
         ]
 }
